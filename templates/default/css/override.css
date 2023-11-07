@@ -56,9 +56,9 @@ a.thumbnail.active {
 }
 
 .btn-primary {
-    color: #ff0000;
+    color: #E7B6A5;
     background-color: transparent;
-	border-color: #ff0000;
+	border-color: #E7B6A5;
 	-moz-transition: all .1s ease-in;
     -o-transition: all .1s ease-in;
     -webkit-transition: all .1s ease-in;
@@ -68,6 +68,6 @@ a.thumbnail.active {
 }
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     color: #fff !important;
-    background-color: #ff0000 !important;
-	border-color: #ff0000 !important;
+    background-color: #E7B6A5 !important;
+	border-color: #E7B6A5 !important;
 }

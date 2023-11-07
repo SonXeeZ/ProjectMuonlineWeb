@@ -54,10 +54,11 @@ if(!isset($_REQUEST['subpage'])) {
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
-		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>style2.css" rel="stylesheet" media="screen">
-		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>profiles.css" rel="stylesheet" media="screen">
+		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>style3.css" rel="stylesheet" media="screen">
+		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>profiles2.css" rel="stylesheet" media="screen">
 		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>castle-siege.css" rel="stylesheet" media="screen">
-		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>override.css" rel="stylesheet" media="screen">
+		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>override2.css" rel="stylesheet" media="screen">
+		<link href="<?php echo __PATH_TEMPLATE_CSS__; ?>vip.css" rel="stylesheet" media="screen">
 		<script>
 			var baseUrl = '<?php echo __BASE_URL__; ?>';
 		</script>

@@ -10,7 +10,7 @@
         "order": 10
     },
     {
-        "active": true,
+        "active": false,
         "type": "internal",
         "phrase": "usercp_menu_txt_2",
         "link": "usercp\/reset",
@@ -30,7 +30,7 @@
         "order": 30
     },
     {
-        "active": true,
+        "active": false,
         "type": "internal",
         "phrase": "usercp_menu_txt_3",
         "link": "usercp\/clearpk",
@@ -90,7 +90,7 @@
         "order": 90
     },
     {
-        "active": true,
+        "active": false,
         "type": "internal",
         "phrase": "usercp_menu_txt_11",
         "link": "usercp\/buyzen",
@@ -98,5 +98,25 @@
         "visibility": "user",
         "newtab": false,
         "order": 100
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "transfercredits_title",
+        "link": "transfercredits\/transfer",
+        "icon": "usercp_default.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 110
+    },
+    {
+        "active": true,
+        "type": "internal",
+        "phrase": "vip_title",
+        "link": "vip\/info",
+        "icon": "vip.png",
+        "visibility": "user",
+        "newtab": false,
+        "order": 120
     }
 ]

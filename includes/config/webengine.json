@@ -15,7 +15,7 @@
     "website_forum_link": "https:\/\/webenginecms.org\/",
     "SQL_DB_HOST": "localhost",
     "SQL_DB_NAME": "MuOnline",
-    "SQL_DB_2_NAME": null,
+    "SQL_DB_2_NAME": "Me_MuOnline",
     "SQL_DB_USER": "sa",
     "SQL_DB_PASS": "DEQjc6cfKVvSxCq",
     "SQL_DB_PORT": "1433",
@@ -23,11 +23,11 @@
     "SQL_PDO_DRIVER": "3",
     "SQL_PASSWORD_ENCRYPTION": "phpmd5",
     "SQL_SHA256_SALT": "1234567890",
-    "server_files": "custom",
+    "server_files": "igcn",
     "language_switch_active": true,
     "language_default": "en",
     "language_debug": false,
-    "plugins_system_enable": false,
+    "plugins_system_enable": true,
     "ip_block_system_enable": false,
     "character_avatars_dir": "character-avatars",
     "player_profiles": true,
@@ -45,7 +45,8 @@
     "server_info_season": "Season 6 Episode 3",
     "server_info_exp": "100x",
     "server_info_masterexp": "100x",
-    "server_info_drop": "30%",
+    "server_info_drop": "20%",
     "maximum_online": "500",
-    "season_1_support": false
+    "season_1_support": false,
+    "SQL_ENABLE_MD5": false
 }

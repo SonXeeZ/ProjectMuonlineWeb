@@ -20,6 +20,7 @@ try {
 	echo '<div class="row">';
 		echo '<div class="col-xs-4">';
 			echo '<a href="'.__BASE_URL__.'donation/paypal/" class="thumbnail"><img src="'.__PATH_TEMPLATE_IMG__.'donation/paypal.jpg"></a>';
+			/*echo '<a href="'.__BASE_URL__.'donation/paymentwall/" class="thumbnail"><img src="'.__PATH_TEMPLATE_IMG__.'donation/paymentwall.png"></a>';*/
 		echo '</div>';
 	echo '</div>';
 	
